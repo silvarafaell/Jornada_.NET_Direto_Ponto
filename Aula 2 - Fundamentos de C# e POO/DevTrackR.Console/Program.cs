@@ -60,5 +60,19 @@ for (var i = 0; i < valoresArray.Length; i++)
 
 Console.WriteLine();
 
+var contador = 0;
+
+while (contador < valoresArray.Length)
+{
+    Console.Write(valoresArray[contador] + " ");
+    contador++;
+}
+
+Console.WriteLine();
+
+foreach (var item in valoresArray)
+{
+    Console.Write(item + " ");
+}
 
 
