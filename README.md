@@ -1,4 +1,4 @@
-### Jornada .NET Direto ao Ponto
+### Jornada .NET Direto ao Ponto com o LuisDev
 # Aula 1: O mercado de programação com .NET e suas oportunidades (nacionais e internacionais)
 
 # Aula 2: Fundamentos de C# e Programação Orientada a Objetos
