@@ -1,6 +1,8 @@
 ### Jornada .NET Direto ao Ponto com o LuisDev
 # Aula 1: O mercado de programação com .NET e suas oportunidades (nacionais e internacionais)
 
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula1/aula1.png?raw=true "Aula 1")
+
 # Aula 2: Fundamentos de C# e Programação Orientada a Objetos
 Comandos utilizados: 
 - dotnet new console -o DevTrackR.Console
