@@ -59,3 +59,12 @@ Comandos
 Pacotes Instalados
 - SendGrid
 - SendGrid.Extensions.DependencyInjection
+
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula5/TemasHoje.png?raw=true "TemasHoje")
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula5/EnvioEmail.png?raw=true "EnvioEmail")
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula5/EnvioEmail1.png?raw=true "EnvioEmail1")
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula5/EnvioEmail2.png?raw=true "EnvioEmail2")
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula5/Documentacao%20com%20Swagger.png?raw=true "Documentacao com Swagger")
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula5/Documentacao%20com%20Swagger1.png?raw=true "Documentacao com Swagger1")
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula5/publicado%20no%20Microsoft%20Azure.png?raw=true "publicado no Microsoft Azure")
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula5/publicado%20no%20microsoft%20Azure1.png?raw=true "publicado no Microsoft Azure1")
