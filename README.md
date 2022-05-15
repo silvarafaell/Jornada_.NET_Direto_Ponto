@@ -56,3 +56,6 @@ Comandos
 ![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula4/Padrao%20Repository.png?raw=true "Padrao Repository")
 
 # Aula 5: Swagger, Envio de E-mails e Publicação na Azure
+Pacotes Instalados
+- SendGrid
+- SendGrid.Extensions.DependencyInjection
