@@ -40,7 +40,21 @@ namespace DevTrackR.API.Controllers
             return Ok(package);
         }
 
-        // POST api/packages/
+        /// <summary>
+        /// Cadastro de  um pacote.
+        /// </summary>
+        /// <remarks>
+        /// {
+        ///     "title": "Pacote Cartas Colecionáveis",
+        ///     "weight": 1.8,
+        ///     "senderName": "Luis",
+        ///     "senderEmail": "bayiho6875@akapple.com"
+        /// }
+        /// </remarks>
+        /// <param name="model">Dados do pacote</param>
+        /// <returns>Objeto recém-criado.</returns>
+        /// <response code="201">Cadastro realizado com sucesso.</response>
+        /// <response code="400">Dados estão inválidos.</response>
         [HttpPost]
         public IActionResult Post(AddPackageInputModel model)
         {
