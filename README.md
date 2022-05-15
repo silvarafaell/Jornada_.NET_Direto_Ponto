@@ -41,8 +41,8 @@ Pacotes Instalados
 
 Comandos
 - dotnet tool install --global dotnet-ef
--dotnet user-secrets init (gerou = f325f19d-b66d-40ec-a89c-9d54a639d3e6)
--Mesmo comando dotnet user-secrets set "ConnectionStrings:DevTrackRCs" "Server=DESKTOP-EGDDQI4\SQLEXPRESS; Database=Delivery; User Id=sa; Password=1234"
+- dotnet user-secrets init (gerou = f325f19d-b66d-40ec-a89c-9d54a639d3e6)
+- Mesmo comando dotnet user-secrets set "ConnectionStrings:DevTrackRCs" "Server=DESKTOP-EGDDQI4\SQLEXPRESS; Database=Delivery; User Id=sa; Password=1234"
 - dotnet ef migrations add InitialMigration -o Persistence/Migrations
 - dotnet ef database update
 
