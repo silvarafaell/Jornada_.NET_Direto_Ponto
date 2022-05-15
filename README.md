@@ -34,5 +34,16 @@ Comandos utilizados:
 ![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula3/API%20Rodando.png?raw=true "API Rodando")
 
 # Aula 4: Acesso a banco de dados SQL Server com Entity Framework Core e Padrão Repository
+Pacotes Instalados
+- Microsoft.EntityFrameworkCore.SqlServer
+- Microsoft.EntityFrameworkCore.Design
+- Microsoft.EntityFrameworkCore.InMemory
 
-# Aula 4: Swagger, Envio de E-mails e Publicação na Azure
+Comandos
+- dotnet tool install --global dotnet-ef
+-dotnet user-secrets init (gerou = f325f19d-b66d-40ec-a89c-9d54a639d3e6)
+-Mesmo comando dotnet user-secrets set "ConnectionStrings:DevTrackRCs" "Server=DESKTOP-EGDDQI4\SQLEXPRESS; Database=Delivery; User Id=sa; Password=1234"
+- dotnet ef migrations add InitialMigration -o Persistence/Migrations
+- dotnet ef database update
+
+# Aula 5: Swagger, Envio de E-mails e Publicação na Azure
