@@ -46,4 +46,13 @@ Comandos
 - dotnet ef migrations add InitialMigration -o Persistence/Migrations
 - dotnet ef database update
 
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula4/Porque%20C%23%20e%20.NET.png?raw=true "Porque C#")
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula4/Entity%20Framwwork%20Core.png?raw=true "EntityFrameworkcore")
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula4/Entity%20Framwwork%20Core1.png?raw=true "EntityFrameworkcore1")
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula4/Entity%20Framwwork%20Core2.png?raw=true "EntityFrameworkcore2")
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula4/Entity%20Framwwork%20Core3.png?raw=true "EntityFrameworkcore3")
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula4/Entity%20Framwwork%20Core4.png?raw=true "EntityFrameworkcore4")
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula4/Entity%20Framwwork%20Core5.png?raw=true "EntityFrameworkcore5")
+![Alt text](https://github.com/silvarafaell/Jornada_.NET_Direto_Ponto/blob/main/images/aula4/Padrao%20Repository.png?raw=true "Padrao Repository")
+
 # Aula 5: Swagger, Envio de E-mails e Publicação na Azure
